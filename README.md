@@ -1,5 +1,12 @@
 # 投資相關程式及資料的整理
 
+程式主要的來源：
+
+* [FinLab](https://www.finlab.tw/)
+* [twstock](https://github.com/mlouielu/twstock)
+
+因為我比較習慣使用 pandas 來做分析，所以會盡量把抓到的資料轉換成 dataframe。
+
 底下是一些可以抓資料的網站... 
 
 另外一些在 hackpad 上的已經遺失，需要重新尋找... :p
