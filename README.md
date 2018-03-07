@@ -1,6 +1,6 @@
 # 投資相關程式及資料的整理
 
-程式主要的來源：
+除了自己寫的程式之外，程式主要的來源如下(在 .ipynb 裡面有標明)：
 
 * [FinLab](https://www.finlab.tw/)
 * [twstock](https://github.com/mlouielu/twstock)
